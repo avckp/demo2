@@ -1,0 +1,125 @@
+{
+  "teacher": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/originals/af/89/96/af8996df700705f0982ec0b497287ab0.jpg",
+      "name": "john",
+      "desc": "software engineer",
+      "address": "13, Sarjapur Junction 2nd Cross Rd, Iblur Village, Bellandur, Bengaluru, Karnataka 560103",
+      "subject": [
+        "math",
+        "science",
+        "history",
+        "social science"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "name": "kohn",
+      "address": "206, Ram Nivas Complex, Above Mafat Lal Shop, Opp. Geeta Bakary, Mini Bazaar, Varachha, Surat, Gujarat 395006",
+      "desc": "Hardware engineer",
+      "subject": [
+        "biology",
+        "sanskrit",
+        "social science"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://i.pinimg.com/originals/af/89/96/af8996df700705f0982ec0b497287ab0.jpg",
+      "name": "john",
+      "address": "13, Sarjapur Junction 2nd Cross Rd, Iblur Village, Bellandur, Bengaluru, Karnataka 560103",
+      "desc": "software engineer",
+      "subject": [
+        "math",
+        "science",
+        "history",
+        "social science"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "name": "kohn",
+      "address": "13, Sarjapur Junction 2nd Cross Rd, Iblur Village, Bellandur, Bengaluru, Karnataka 560103",
+      "desc": "Hardware engineer",
+      "subject": [
+        "biology",
+        "sanskrit",
+        "social science"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "name": "aaohn",
+      "address": "13, Sarjapur Junction 2nd Cross Rd, Iblur Village, Bellandur, Bengaluru, Karnataka 560103",
+      "desc": "ddrdware engineer",
+      "subject": [
+        "biology",
+        "sanskrit",
+        "social science"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "name": "amhn",
+      "address": "13, Sarjapur Junction 2nd Cross Rd, Iblur Village, Bellandur, Bengaluru, Karnataka 560103",
+      "desc": "Hardware engineer",
+      "subject": [
+        "biology",
+        "sanskrit",
+        "social science"
+      ]
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "studentName": "tarun rajput",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "class": "computer",
+      "address": "delhi ring rode",
+      "emailId": "tarun@gmail.com",
+      "phone": "9088990987"
+    },
+    {
+      "id": "2",
+      "studentName": "Rahul sharma",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "class": "math",
+      "address": "patna ring rode",
+      "emailId": "rahul11@gmail.com",
+      "phone": "8769098762"
+    },
+    {
+      "id": "3",
+      "studentName": "mahi patel",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "class": "cube",
+      "address": "surat ring rode",
+      "emailId": "mahi21@gmail.com",
+      "phone": "8899000099"
+    },
+    {
+      "id": "4",
+      "studentName": "jigar panchal",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "class": "computer",
+      "address": "bardoli ring rode",
+      "emailId": "jigar@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "5",
+      "studentName": "anil sharma",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+      "class": "computer class",
+      "address": "delhi ring rode",
+      "emailId": "anil@gmail.com",
+      "phone": "8989909078"
+    }
+  ]
+}
